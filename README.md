@@ -1,8 +1,8 @@
 # Hi👋 I'm Pritesh
 
-## 🔭 Backend Developer | Node.js | MongoDB | TypeScript | AWS | Docker
-## 💡 Building scalable systems & Microservices
-## 🧠 Always learning System Design, AI, and Cloud
+### 🔭 Backend Developer | Node.js | MongoDB | TypeScript | AWS | Docker
+### 💡 Building scalable systems & Microservices
+##@ 🧠 Always learning System Design, AI, and Cloud
 
 A seasoned Backend Engineering wizard with an extensive track record of building, delivering and sustaining, complex, high quality, AI/Machine Learning and system level infrastructure software products.
 Expert level knowledge in Backend Development, Public/Hybrid clouds and System level Infrastructure development. Vast experience working with Global Engineering teams and Infrastructure solutions.
